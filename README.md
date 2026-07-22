@@ -163,14 +163,21 @@ You are free to use, modify, and distribute this project with proper attribution
 
 # 👤 About Me
 
-I'm **Gee**,Data has always fascinated me—not just numbers on a screen, but the stories hidden within them. As a Data Analyst, I thrive on transforming raw datasets into meaningful insights that drive smarter business decisions. My journey into analytics began with curiosity and has grown into a passion for solving real-world problems using SQL and structured workflows.
+# 👋 Hi, I'm Gee
 
-In this portfolio, you’ll find projects that go beyond queries and tables. Each one reflects practical techniques in:
--SQL analytics applied to real scenarios
--Business reporting that turns complexity into clarity
--KPI development for tracking what truly matters
--Decision-making frameworks powered by data
+I’m a Data Analyst passionate about transforming raw data into meaningful insights that support smarter business decisions. For me, data is more than numbers — it tells stories, reveals patterns, and helps organizations understand what drives performance.
 
-What excites me most is the impact—seeing how a well-designed query or a clear dashboard can change the way organizations understand their performance. I approach every project with precision, creativity, and a drive to make data accessible and actionable.
+My journey into analytics started with curiosity and has grown into a passion for solving real-world business problems using SQL, data analysis, and structured workflows.
 
-As I continue building solutions in Data Analytics and Business Intelligence, I invite you to explore my work, connect with me, and follow along as I expand this portfolio into a resource for both learning and practical application.
+Through my portfolio, I showcase projects focused on:
+
+- 📊 SQL analytics applied to real-world business scenarios
+- 📈 Business reporting and KPI development
+- 🔍 Trend analysis, customer segmentation, and performance insights
+- 🧠 Data-driven approaches to improving decision-making
+
+I enjoy building solutions that turn complex datasets into clear, actionable insights. Whether it’s designing analytical queries, uncovering trends, or creating reports that highlight business opportunities, my goal is always to make data more accessible and valuable.
+
+As I continue developing my skills in **Data Analytics and Business Intelligence**, I’m building projects that demonstrate practical problem-solving, analytical thinking, and industry-relevant techniques.
+
+Feel free to explore my work, connect with me, and follow my journey as I continue growing as a data professional. 🚀
